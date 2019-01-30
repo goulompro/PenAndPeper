@@ -160,9 +160,9 @@ namespace PenAndPepper
 
             Console.WriteLine(DateTime.Now.ToString() + " " + _class + " " + _debug_function + ": " + _debug_float);
         }
-/*
- * debug.write_line(dl.Dialog_sentence + " ; " + dl.Assigned_character + " ; " + dl.Answer_type + " ; " + dl.Type);
- */
+        /*
+         * debug.write_line(dl.Dialog_sentence + " ; " + dl.Assigned_character + " ; " + dl.Answer_type + " ; " + dl.Type);
+         */
         public void write_line(string _debug_text)
         {
             Console.WriteLine(DateTime.Now.ToString() +'\t'+ _debug_text + '\n');
