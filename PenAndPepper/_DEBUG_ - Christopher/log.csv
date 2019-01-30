@@ -1,0 +1,2 @@
+TimeStamp,Class_name,Debug_function,Debug_text
+01.01.0001 00:00:00;PenAndPepper.MapForm, Text: Map;Void MapForm_KeyPress(System.Object, System.Windows.Forms.KeyPressEventArgs);w X-Pos:11 Y-Pos:7

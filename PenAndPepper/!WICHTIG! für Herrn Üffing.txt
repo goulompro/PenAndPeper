@@ -1,0 +1,12 @@
+﻿Dies ist das Projekt PenAndPepper von
+
+- Ulrich Steffen
+- Silas Felske
+- Fillip Giltjes
+- Christopher
+
+Informationen: 
+
+Die Namen hinter den Ordnernamen, benennen den Hauptautor, der die Aufgabe
+bekommen, den Abschnitt zu programmieren. Mitautoren werden entweder am Beginn der Klasse
+genannt, die dem Ordner hinzugefügt wurden oder bei den von ihnen geschriebenen Funktionen.
